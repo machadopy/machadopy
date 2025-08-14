@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🌱 I’m currently learning Python, and I'm pursuing a degree in Systems Analysis and Development.
+🌱 "I'm currently learning Python, and I'm studying Systems Analysis and Development."
 
 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/marciovitormachado/
 
