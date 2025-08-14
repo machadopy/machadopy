@@ -9,4 +9,4 @@
 
 ⚡ Fun fact: I started studying on my own and discovered that this is the field I want to dedicate my life to.
 
-(https://github-readme-stats.vercel.app/api?username=?machadopy)](https://github.com/machadopy/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=?machadopy https://github.com/machadopy/github-readme-stats
