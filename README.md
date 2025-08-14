@@ -19,3 +19,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
 </div>          
+
+##
+
+### O que eu aprendi:
+
+---
+
+**Fundamentos de Programação:**
+* **Estruturas de Repetição:** Utilizei os laços `while` e `for` para executar blocos de código de forma repetitiva.
+* **Estruturas de Dados:** Aprendi a manipular dados usando tuplas, listas e dicionários, escolhendo a estrutura mais adequada para cada situação.
+* **Lógica e Algoritmos:** Desenvolvi minha lógica de programação e usei pseudocódigo para planejar a solução de problemas complexos antes de codificar.
+
+**Desenvolvimento Web:**
+* **Estrutura da Página:** Aprendi a usar a estrutura HTML para construir a base e a semântica de uma página web.
+* **Estilização:** Utilizei CSS para estilizar os elementos, controlando o layout e o design da interface.
+* **APIs:** Entendi como usar os métodos HTTP (`GET`, `POST`, `PUT`, `DELETE`) para interagir com APIs, permitindo a comunicação entre aplicações.
