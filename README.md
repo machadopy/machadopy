@@ -9,4 +9,4 @@
 
 ⚡ Fun fact: I started studying on my own and discovered that this is the field I want to dedicate my life to.
 
-[![machadopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=machadopy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![machadopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=machadopy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
